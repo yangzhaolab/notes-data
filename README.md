@@ -2,7 +2,7 @@
 ## NASA
 ### NASA-GMAO (Global Modeling and Assimilation Office)
 
-- GMAO
+- NASA GMAO (Global Modeling and Assimilation Office)
   - Missions (https://gmao.gsfc.nasa.gov/gmao-mission/)
   -  Products (https://gmao.gsfc.nasa.gov/gmao-products/)
     - GEOS FP
