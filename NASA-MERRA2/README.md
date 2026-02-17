@@ -1,5 +1,5 @@
 # NASA-MERRA2
-## Documents
+### MERRA2 Documents
 - MERRA-2 README (2021):
     - [local link](MERRA2-README.pdf)
     - [online link](https://goldsmr5.gesdisc.eosdis.nasa.gov/data/MERRA2/M2I3NPASM.5.12.4/doc/MERRA2.README.pdf).
